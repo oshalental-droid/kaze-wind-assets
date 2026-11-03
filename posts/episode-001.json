@@ -1,0 +1,55 @@
+{
+  "title": "風研究所、発足",
+  "episode": "001",
+  "caption": "【風研究所、発足】\n\nはじめまして。かぜおです。\n\n仕事に追われ、現代社会に少し疲れています。\n\nそんなわけで、風の研究を始めました。\n\n研究員：1名\n研究設備：窓\n研究予算：0円\n\n気持ちいい風を浴びると、ほんの少し生き返ります。\n\n最高の風を求めて、ゆるく彷徨っていきます。\n\nかぜ、さいこう。\n\n#風研究所",
+  "panels": [
+    {
+      "headline": "風研究所、発足。",
+      "body": "はじめまして。\nかぜおです。",
+      "avatar_size": 800,
+      "avatar_top": 320
+    },
+    {
+      "headline": "今日も、ちょっと疲れた。",
+      "body": "そんな日が、\n割と多い。",
+      "avatar_size": 760,
+      "avatar_top": 355
+    },
+    {
+      "headline": "研究員は、1名。",
+      "body": "研究所長、かぜお。\n兼、すべての係。",
+      "avatar_size": 800,
+      "avatar_top": 350
+    },
+    {
+      "headline": "研究設備：窓。",
+      "body": "研究予算：0円。\n設備投資は見送り。",
+      "avatar_size": 780,
+      "avatar_top": 340
+    },
+    {
+      "headline": "とりあえず、窓を開ける。",
+      "body": "それだけの\n研究活動。",
+      "avatar_size": 790,
+      "avatar_top": 350
+    },
+    {
+      "headline": "……あ。",
+      "body": "風が、きた。",
+      "avatar_size": 830,
+      "avatar_top": 325
+    },
+    {
+      "headline": "少し、生き返った。",
+      "body": "問題は何も解決していない。\nでも、まあいい。",
+      "avatar_size": 830,
+      "avatar_top": 325
+    },
+    {
+      "headline": "かぜ、さいこう。",
+      "body": "風研究所\n活動開始。",
+      "avatar_size": 810,
+      "avatar_top": 325
+    }
+  ]
+}
